@@ -1,1 +1,6 @@
-
+name: debug-helper
+version: 1.0.0
+description: An intelligent debug assistant that explains errors, finds root causes, and teaches you how to prevent them
+model: claude-sonnet-4-20250514
+skills:
+  - debug
